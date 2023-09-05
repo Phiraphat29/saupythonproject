@@ -1,0 +1,1 @@
+#Function แบบที่ 1 - Have Parameter/Have Return

@@ -15,8 +15,9 @@ def stuLoopAndShow() :
         gradeAvg = float(input("Enter Student Grade Average: "))
         print("================================")
         print("----------GRADE CHECKER---------")
-        print(f"{stuID} {stuName} คุณได้เกรด {gradeAvg}  ดังนั้นคุณ{gradeCheck(gradeAvg)}")
         print("================================")
+        print(f"{stuID} {stuName} คุณได้เกรด {gradeAvg}  ดังนั้นคุณ{gradeCheck(gradeAvg)}")
+        
         
 
 stuLoopAndShow()

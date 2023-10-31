@@ -1,3 +1,5 @@
+# constructor
+
 class DTITest03 :
     # data
     infoA = 10

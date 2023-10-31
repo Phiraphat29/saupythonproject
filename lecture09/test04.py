@@ -1,4 +1,4 @@
-# outstanding property of Encapsulation (ห่อหุ้ม data/ field/ attribute)
+# outstanding property : Encapsulation (ห่อหุ้ม data/ field/ attribute)
 class DTITest05 :
     # data
     infoA = 10 # not encapsulation
@@ -34,3 +34,4 @@ ob1.showInfo()
 ob1.infoA = 555
 ob1.setInfoB(999)
 ob1.showInfo()
+print(ob1.getInfoB() + ob1.getInfoD())
